@@ -49,4 +49,4 @@ userid2.emailid="shagunpal@gamil.com";
 console.log(userid.emailid);
 console.log(userid2.emailid);
 //here if make any changes to userid2 that will directly effect userid because in case of heap memory 
-//we directly assign reference not copy
+//we directly assign reference not copy 
